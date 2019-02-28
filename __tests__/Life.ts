@@ -1,5 +1,5 @@
 import {Game, Grid} from "../src/Life";
-
+/*what*/
 /**
  * Converts a grid’s boolean representation to a numeric representation.
  *
